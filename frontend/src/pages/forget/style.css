@@ -1,0 +1,59 @@
+.forget_text{
+    color: #2A69B4;
+    font-family: 'Arial';
+    font-size: 52px;
+    font-weight: 700;
+
+}
+.CanteenUIT_forget_text{
+    color: #F72D57;
+    /* margin-left: 15px; */
+    font-size: 70px;
+    font-family: 'Praise',cursive;
+}
+
+.forget_head{
+    color: #3F3F3F;
+    font-size: 48px;
+    font-family: 'Arial';
+    font-weight: 700;
+}
+
+.button_Next_page{
+    background-color: #F72D57;
+    width: 100%;
+    height: 60px;
+    border-radius: 5px 5px 5px 5px;
+    margin-bottom: 5%;
+    padding-top: 3.5%;
+    text-align: center;
+    flex-direction: column;
+    align-items: center;
+    border: none;
+}
+
+.button_Next_page:hover{
+    background-color: #dd294d;
+    opacity:0.9;
+}
+.button_Next_page:active{
+    background-color: #dd294d;
+    opacity:1;
+}
+
+
+.forget_next_page_Text{
+    flex: content;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+
+.previous_page_button:hover{
+    /* background-color: #2A69B4; */
+    opacity: 0.9;
+}
+
+.previous_page_button:active{
+    opacity: 1;
+}

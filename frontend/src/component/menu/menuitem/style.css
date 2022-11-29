@@ -1,0 +1,37 @@
+.containerItem
+{
+    background-image: linear-gradient(to bottom, #2A69B4, #F72D57);
+    width: 70%;
+    margin-left: 15%;
+}
+
+.containerItemImage
+{
+    width: 150px;
+    height: 80%;
+    margin-top: 10%;
+    padding-left: 5%;
+    padding-right: 5%;
+    /* border-radius: 5px 5px 5px 5px; */
+    /* background-color: black; */
+}
+
+.shopping_cart_add:hover
+{
+    opacity: 0.6;
+}
+.shopping_cart_add:active
+{
+    opacity: 1;
+    color: #F72D57;
+}
+
+.food_text{
+    color:#FFFFFF;
+    font-family: "Arial";
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 23px;
+    margin-right: 10px;
+    text-align: center;
+}
